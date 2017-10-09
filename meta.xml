@@ -1,0 +1,5 @@
+<meta>
+    <info name="SpeedLimiter" author="rootcause" type="script" />
+    
+    <script src="SpeedLimiter.js" type="client" lang="javascript" />
+</meta>
